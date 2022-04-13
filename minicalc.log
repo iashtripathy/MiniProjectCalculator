@@ -1,0 +1,8 @@
+13/Apr/2022:12:05:32 +0530 [main] INFO  ScientificCalculator - [FACTORIAL] - 5
+13/Apr/2022:12:05:32 +0530 [main] INFO  ScientificCalculator - [RESULT FACTORIAL] - 120
+13/Apr/2022:12:05:32 +0530 [main] INFO  ScientificCalculator - [POWER FUNCTION] - 3.0^3.0
+13/Apr/2022:12:05:32 +0530 [main] INFO  ScientificCalculator - [RESULT POWER FUNCTION] - 27.0
+13/Apr/2022:12:05:32 +0530 [main] INFO  ScientificCalculator - [NATURAL LOG] - 145.256
+13/Apr/2022:12:05:32 +0530 [main] INFO  ScientificCalculator - [RESULT NATURAL LOG] - 4.978497702968366
+13/Apr/2022:12:05:32 +0530 [main] INFO  ScientificCalculator - [SQUARE ROOT] - 25.0
+13/Apr/2022:12:05:32 +0530 [main] INFO  ScientificCalculator - [RESULT SQUARE ROOT] - 5.0
