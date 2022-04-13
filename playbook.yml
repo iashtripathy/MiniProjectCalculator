@@ -1,0 +1,8 @@
+---
+- name: Push docker image to docker hub
+  hosts: localhost
+  connection: local
+  remote_user: rocky
+  tasks:
+    - name: pull image
+      command: docker pull iash99/minicalc:latest

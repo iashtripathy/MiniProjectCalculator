@@ -1,3 +1,3 @@
 FROM openjdk:8
-COPY target/Calculator-1.0-SNAPSHOT.jar Calculator-1.0-SNAPSHOT.jar
-CMD ["java","-cp","Calculator-1.0-SNAPSHOT.jar", "Calculator"]
+COPY target/speminiproject-1.0-SNAPSHOT-jar-with-dependencies.jar speminiproject-1.0-SNAPSHOT.jar
+CMD ["java","-cp","speminiproject-1.0-SNAPSHOT.jar","Calculator"]
