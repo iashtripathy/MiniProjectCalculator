@@ -1,5 +1,5 @@
 ---
-- name: Push docker image to docker hub
+- name: Pull image from docker hub
   hosts: localhost
   connection: local
   remote_user: rocky
